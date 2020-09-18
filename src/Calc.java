@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Calc {											//Title:Calc
-	Stack<Integer> s1=new Stack<Integer>();					//Author:F�rat DEDE
+public class Calc {											
+	Stack<Integer> s1=new Stack<Integer>();					
 	public static void main(String[] args) {				
-		// TODO Auto-generated method stub					//Assignment:1
-															//Section:1
-		 Scanner a=new Scanner(System.in);					//Description:This class
-		 Calc calc1=new Calc();                             //defines a Calculator
+		// TODO Auto-generated method stub					
+															
+		 Scanner a=new Scanner(System.in);				
+		 Calc calc1=new Calc();                             
 		 while(true) {
 			 String sentence=a.next();
 			 if(sentence.equalsIgnoreCase("S")) {
