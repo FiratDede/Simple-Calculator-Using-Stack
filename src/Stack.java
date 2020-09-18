@@ -1,12 +1,12 @@
 
 
-public class Stack<T> {						//Title: Stack
-	Node head=null;							//Author:F�rat DEDE
+public class Stack<T> {						
+	Node head=null;							
 	int size=0;								
-  private class Node{						//Section:1
-	  Node next;							//Assignment: 1
-	  T value;								//Description:This class defines a
-	Node(T value){							//  Stack
+  private class Node{						
+	  Node next;							
+	  T value;								
+	Node(T value){							
 		next=null;
 		this.value=value;
 	}
