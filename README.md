@@ -10,5 +10,5 @@ I developed this program for Cmpe242 course homework. This program is a simple  
 3) If the user enters the E, the user exits the program.
 </br>
 Example:
-<img src="image1.PNG">
+<img src="img1.PNG">
 
