@@ -1,13 +1,13 @@
 
 public class CalcTester {									
 
-	public static void main(String[] args) {		//Title:CalcTester
-		// TODO Auto-generated method stub			//Author:F�rat DEDE
+	public static void main(String[] args) {		
+		// TODO Auto-generated method stub			
        							                    
-      								                //Section: 1
-       							                    //Assignment: 1
-       								               //Description:This class
-       									           //defines a Calculator Tester
+      								                
+       							                    
+       								               
+       									          
       
        Calc c1=new Calc();
        c1.show();
