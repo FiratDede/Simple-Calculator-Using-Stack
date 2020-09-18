@@ -7,5 +7,5 @@ I developed this program for Cmpe242 course homework. This program is a simple  
 
 1) If user enters S as an input. the user see current state of the stack.
 2) If user enters P as an input, pop operation is performed in calculator. Also the user sees popped element
-3)If the user enters the E, the user exits the program.
+3) If the user enters the E, the user exits the program.
 
